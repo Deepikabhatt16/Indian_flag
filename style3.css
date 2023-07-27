@@ -1,0 +1,34 @@
+html{
+    background-color: #b5e7e5;
+}
+.main
+{
+   border-width:30px;
+   border-radius: solid pink;
+    position: absolute;
+    top:50px;
+    left:400px;
+}
+.first{
+    width: 500px;
+    height:150px;
+    background-color: rgb(254, 147, 7);
+}
+.second{
+    width: 500px;
+    height:150px;
+  
+    background-color: rgb(255, 249, 240);
+}
+img{position: relative;
+    top: 0px;
+    left:160px;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+}
+.third{
+    width: 500px;
+    height:150px;
+    background-color: rgb(88, 255, 54);
+}
